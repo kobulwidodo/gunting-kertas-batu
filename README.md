@@ -2,7 +2,11 @@
 Mini game dengan menggunakan Java <br>
 Terdapat score jika salah satu berhasil mencapai 3 point, maka permainan selesai
 <br>
-## cara penggunaan
+
+## Requirement
+`Java Development Kit`
+
+## How to Install
 1. Download Script / `git clone https://github.com/kobulwidodo/gunting-kertas-batu.git`
 2. Buka cmd dan cd ke lokasi script contoh : `cd E:\gunting-kertas-batu`
 3. ketik `java Main` lalu enter
