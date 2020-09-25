@@ -136,19 +136,19 @@ public class Main {
                         System.out.println("");
                     } else {
                         if (pilihanFinal3.equals("Gunting")){
-                            System.out.println("Yah kamu kalah :((");
-                            Thread.sleep(1000);
-                            System.out.println("");
-                            System.out.println("=====================================");
-                            System.out.println("");
-                            pointKomp++;
-                        } else if (pilihanFinal3.equals("Kertas")){
                             System.out.println("Yuhu kamu menang!!");
                             Thread.sleep(1000);
                             System.out.println("");
                             System.out.println("=====================================");
                             System.out.println("");
                             pointUser++;
+                        } else if (pilihanFinal3.equals("Kertas")){
+                            System.out.println("Yah kamu kalah :((");
+                            Thread.sleep(1000);
+                            System.out.println("");
+                            System.out.println("=====================================");
+                            System.out.println("");
+                            pointKomp++;
                         }
                     }
                     break;
